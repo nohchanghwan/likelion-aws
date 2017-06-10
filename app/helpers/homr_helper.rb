@@ -1,0 +1,2 @@
+module HomrHelper
+end
